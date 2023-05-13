@@ -1,4 +1,4 @@
-# MeTime
+# MeTime-app
 
 A new Flutter project.
 
